@@ -7,6 +7,6 @@ y=0
 try:
     print(x/y)
 except:
-    print('infinity')
+    print('infinity & beyond')
 
 
